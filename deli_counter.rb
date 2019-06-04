@@ -1,7 +1,7 @@
 # Write your code here.
 
 
-def 
+def katz_deli
 katz_deli = []
 
 def line
